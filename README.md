@@ -1,6 +1,6 @@
 ### Hi there, I'm Duy 👋
 
-### I'm a computer science student and research assistant at the Humboldt University Berlin!
+### I'm a computer science student at the Humboldt University Berlin!
 - 🔭 I finished my bachelor thesis on homomorphic encryption and am currently pursuing my master's degree
 - 🌱 I’m currently working on [simexpal](https://github.com/hu-macsy/simexpal), a collection of tools to manage, launch, monitor and evaluate algorithmic experiments
 <!-- 
